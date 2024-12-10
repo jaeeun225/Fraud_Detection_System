@@ -86,15 +86,15 @@
 
 - Confusion Matrix
 
-  ![Confusion Matrix](images/confusion_matrix.PNG)
+  ![Confusion Matrix](images/confusion_matrix.png)
 
 - ROC Curve
 
-  ![ROC Curve](images/roc_curve.PNG)
+  ![ROC Curve](images/roc_curve.png)
 
 - Precision-Recall Curve
 
-  ![Precision-Recall Curve](images/precision_recall_curve.PNG)
+  ![Precision-Recall Curve](images/precision_recall_curve.png)
 
 ## 설치 방법
 
